@@ -1,2 +1,2 @@
-# C-cases
+# C++ cases
 C++ cases 
